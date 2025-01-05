@@ -53,10 +53,6 @@ export default defineConfig({
       {
         text: '个人博客',
         link: 'https://dantefung.github.io/'
-      },
-      {
-        text: '移动端阅读',
-        link: '/qrcode.png'
       }
     ],
     sidebar: {
